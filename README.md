@@ -141,10 +141,9 @@ Language-specific experts with deep framework knowledge.
 - [**vue-expert**](categories/02-language-specialists/vue-expert.toml) - Vue 3 Composition API expert
 
 
-<details>
-<summary><b>03. Infrastructure</b> — DevOps, cloud, and deployment specialists (16 agents)</summary>
-
 ### [03. Infrastructure](categories/03-infrastructure/)
+
+DevOps, cloud, and deployment specialists.
 
 - [**azure-infra-engineer**](categories/03-infrastructure/azure-infra-engineer.toml) - Azure infrastructure and Az PowerShell automation expert
 - [**cloud-architect**](categories/03-infrastructure/cloud-architect.toml) - AWS/GCP/Azure specialist
@@ -162,8 +161,6 @@ Language-specific experts with deep framework knowledge.
 - [**terraform-engineer**](categories/03-infrastructure/terraform-engineer.toml) - Infrastructure as Code expert
 - [**terragrunt-expert**](categories/03-infrastructure/terragrunt-expert.toml) - Terragrunt orchestration and DRY IaC specialist
 - [**windows-infra-admin**](categories/03-infrastructure/windows-infra-admin.toml) - Active Directory, DNS, DHCP, and GPO automation specialist
-
-</details>
 
 <details>
 <summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (16 agents)</summary>
